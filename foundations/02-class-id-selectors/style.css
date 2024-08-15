@@ -1,0 +1,19 @@
+.Odd{
+    background-color: lightcoral;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.Num3{
+    font-size:36px;
+}
+
+#Num2{
+    color: blue;
+    font-size: 36px;
+}
+
+#Num4{
+    background-color: lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
