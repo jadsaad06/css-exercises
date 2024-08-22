@@ -8,18 +8,19 @@
 }
 
 .logo {
-  font-size: 48px;
+  font-size: 32px;
   font-weight: 900;
   color: tomato;
   background: white;
-  padding: 4px 32px;
+  padding: 2px 32px;
   border: 0;
-  align-self: center;
+  
 }
 
-ul {
+ul li{
   /* this removes the dots on the list items*/
   list-style-type: none;
+  display: inline-block;
 }
 
 a {
@@ -28,14 +29,10 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+  margin-right: 10px;
 }
 
-.left-links {
-  flex-direction: row;
-}
 
-.right-links {
-  
-}
+
 
 
